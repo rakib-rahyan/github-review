@@ -5,4 +5,5 @@
 3. ssh key (computer - github)
 - ssh key generate
 -ssh public key add to
-4. rest
+github
+4. test 
